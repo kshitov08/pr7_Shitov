@@ -1,0 +1,5 @@
+﻿  pr7_Shitov2.cpp
+C:\pr31\pr7_Shitov2\pr7_Shitov2.cpp(64,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\pr31\pr7_Shitov2\pr7_Shitov2.cpp(79,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\pr31\pr7_Shitov2\pr7_Shitov2.cpp(253,31): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  pr7_Shitov2.vcxproj -> C:\pr31\pr7_Shitov2\x64\Debug\pr7_Shitov2.exe

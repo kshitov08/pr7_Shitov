@@ -1,0 +1,6 @@
+The Witcher 3;RPG;PC;120;Complited;9
+Cyberpunk 2077;RPG;PC;60;In progress;7
+God of War;Action;PS5;40;Complited;9
+Hollow Knight;Metroidvania;PC;35;Complited;9
+FIFA 26;Sports;PS5;15;Not started;6
+Elden Ring;Souls-like;PC;400;Complited;8
